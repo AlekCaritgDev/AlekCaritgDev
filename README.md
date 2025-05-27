@@ -64,11 +64,12 @@ Incluye autenticación con JWT, protección de rutas, dashboard dinámico y cone
 
 ---
 
-## 📊 Estadísticas de GitHub
+## ⚙️ Estadísticas de GitHub
 
-<p align="center">
-  <a href="https://github.com/AlekCaritgDev">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlekCaritgDev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlekCaritgDev&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AlekCaritgDev&show_icons=true&theme=algolia&hide_border=true&count_private=true&include_all_commits=true" height="180px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlekCaritgDev&layout=compact&theme=algolia&hide_border=true&langs_count=8" height="180px"/>
+
+</div>
+
