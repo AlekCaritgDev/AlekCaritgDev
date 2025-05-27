@@ -9,37 +9,36 @@
 
 ## Sobre mí
 
-- 🎓 Graduado DAM  
+- 🎓 Buscando empresa para prácticas profesionales. 
 - 💻 Frontend: HTML · CSS · JavaScript · Angular  
 - 🛠️ Backend básico: PHP · MySQL  
-- 🚀 Aprendizaje continuo y proyectos personales  
+- 🌱 Realizando cursos online para seguir mejorando.
 
 ---
 
-## Tecnologías
+## Tecnologías que manejo
 
-### Frontend  
-![HTML](https://img.shields.io/badge/HTML-e34c26?style=flat&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  ![Angular](https://img.shields.io/badge/Angular-0F0F11?style=flat&logo=angular&logoColor=white)  
+<p align="center" style="margin-bottom: 30px;">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,angular,php,python,java,nodejs,mysql,mongodb&perline=12" alt="Tecnologías" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="40" height="40" alt="SQL Server" style="margin-left:8px;" />
+</p>
 
-### Backend  
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)  
+<p align="center" style="margin-bottom: 30px;">
+  <!-- Herramientas -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+</p>
 
-### Bases de datos  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
-![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)  
 
-### Herramientas  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)  
 
 ---
 
 ## 🚧 Proyectos en desarrollo
 
-Angular app — proyecto DAM  
-**Muy pronto en GitHub 🚀**
+**Gestor de Finanzas**: app web con Angular, Node.js y MySQL.  
+Proyecto DAM, pronto en GitHub. 🚀
 
 ---
 
