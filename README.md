@@ -9,10 +9,12 @@
 
 ## Sobre mí
 
-- 🎓 Buscando empresa para prácticas profesionales. 
+- 🎓 Buscando empresa para prácticas profesionales.  
 - 💻 Frontend: HTML · CSS · JavaScript · Angular  
-- 🛠️ Backend básico: PHP · MySQL  
-- 🌱 Realizando cursos online para seguir mejorando.
+- 🛠️ Backend y bases de datos: conocimientos básicos de PHP, MySQL y gestión de datos  
+- 🌱 En proceso de aprendizaje y mejora continua.
+
+Durante mi formación en el ciclo de Desarrollo de Aplicaciones Multiplataforma (DAM), he tenido la oportunidad de trabajar en proyectos que involucran tanto frontend como backend, así como bases de datos, en contextos de aplicaciones web y móviles. Aún estoy ampliando y profundizando estos conocimientos para poder aportar de forma efectiva en futuros proyectos.
 
 ---
 
@@ -31,8 +33,6 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </p>
 
-
-
 ---
 
 ## 🚧 Proyectos en desarrollo
@@ -42,14 +42,14 @@ Proyecto DAM, pronto en GitHub. 🚀
 
 ---
 
-## 📱 Encuéntrame
+## Encuéntrame en:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alek_Caritg-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/alekcaritg/)  
 [![Instagram](https://img.shields.io/badge/Instagram-@alek_rexy05-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/alek_rexy05)
 
 ---
 
-## ⚙️ GitHub Analytics
+## ⚙️ Estadisticas GitHub
 
 <p align="center">
   <a href="https://github.com/AlekCaritgDev">
