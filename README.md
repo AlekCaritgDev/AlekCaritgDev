@@ -7,18 +7,18 @@
 
 ---
 
-## Sobre mí
+## 🧑‍💻 Sobre mí
 
 - 🎓 Buscando empresa para prácticas profesionales.  
 - 💻 Frontend: HTML · CSS · JavaScript · Angular  
 - 🛠️ Backend y bases de datos: conocimientos básicos de PHP, MySQL y gestión de datos  
 - 🌱 En proceso de aprendizaje y mejora continua.
 
-Durante mi formación en el ciclo de Desarrollo de Aplicaciones Multiplataforma (DAM), he tenido la oportunidad de trabajar en proyectos que involucran tanto frontend como backend, así como bases de datos, en contextos de aplicaciones web y móviles. Aún estoy ampliando y profundizando estos conocimientos para poder aportar de forma efectiva en futuros proyectos.
+Durante mi formación en el ciclo de Desarrollo de Aplicaciones Multiplataforma (DAM), he trabajado en proyectos tanto del lado del cliente como del servidor, aprendiendo sobre diseño, lógica de negocio y bases de datos. Mi objetivo es seguir creciendo y aportar valor en proyectos reales.
 
 ---
 
-## Tecnologías que manejo
+## 🧰 Tecnologías que manejo
 
 <p align="center" style="margin-bottom: 30px;">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,angular,php,python,java,nodejs,mysql,mongodb&perline=12" alt="Tecnologías" />
@@ -37,19 +37,34 @@ Durante mi formación en el ciclo de Desarrollo de Aplicaciones Multiplataforma 
 
 ## 🚧 Proyectos en desarrollo
 
-**Gestor de Finanzas**: app web con Angular, Node.js y MySQL.  
-Proyecto DAM, pronto en GitHub. 🚀
+> *Actualmente no hay proyectos en desarrollo visibles. ¡Pronto se vienen nuevas ideas!*
 
 ---
 
-## Encuéntrame en:
+## ✅ Proyectos terminados
+
+### 💼 Finance App - Gestor de Finanzas
+
+<a href="https://github.com/AlekCaritgDev/finance-app">
+  <img src="https://github.com/AlekCaritgDev/Finance-App/blob/main/images/Dashboard.png" alt="Dashboard Finance App" style="height: auto; width:60%; border-radius:8px; box-shadow: 0 0 10px rgba(0,0,0,0.15);"/>
+</a>
+
+[![Finance-App](https://img.shields.io/github/stars/AlekCaritgDev/finance-app?label=Finance-App&style=social)](https://github.com/AlekCaritgDev/finance-app)
+
+**Descripción:**  
+Aplicación web para la gestión personal de finanzas, desarrollada como proyecto final del ciclo DAM.  
+Incluye autenticación con JWT, protección de rutas, dashboard dinámico y conexión a base de datos MySQL.
+
+---
+
+## 🌐 Encuéntrame en
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alek_Caritg-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/alekcaritg/)  
 [![Instagram](https://img.shields.io/badge/Instagram-@alek_rexy05-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/alek_rexy05)
 
 ---
 
-## ⚙️ Estadisticas GitHub
+## 📊 Estadísticas de GitHub
 
 <p align="center">
   <a href="https://github.com/AlekCaritgDev">
