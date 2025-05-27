@@ -2,8 +2,9 @@
 ### Desarrollador Fullstack Junior • Interesado en apps móviles y desarrollo web
 
 <p align="center">
-  <img src="./banner.png" alt="Banner de AlekDevs" width="100%" height="350px">
+  <img src="./banner.png" alt="Banner de AlekDevs" width="100%" style="max-height: 250px; object-fit: contain;">
 </p>
+
 
 ---
 
