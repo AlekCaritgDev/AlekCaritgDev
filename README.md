@@ -1,30 +1,30 @@
 # Hola, mi nombre es Alek Caritg 👋  
-### Desarrollador Fullstack Junior • Interesado en apps móviles y desarrollo web
+### Desarrollador Frontend • Interesado en apps móviles y desarrollo web
 
 <p align="center">
   <img src="./banner.png" alt="Banner de AlekDevs" width="100%" style="max-height: 250px; object-fit: contain;">
 </p>
 
-
 ---
 
 ## Sobre mí
 
-- 🌐 Desarrollador web frontend y backend  
+- 🌐 Desarrollador web especializado en frontend  
+- 💡 Me gusta crear interfaces limpias, modernas y funcionales  
 - ✨ En constante aprendizaje y evolución  
-- 🎯 Me encanta transformar ideas en productos funcionales
+- 🎯 Me motiva transformar ideas en productos reales
 
 <br>
 
-Soy desarrollador junior recién titulado en el ciclo de Desarrollo de Aplicaciones Multiplataforma (DAM). He adquirido conocimientos en desarrollo web y móvil, y estoy iniciando mi carrera profesional con muchas ganas de seguir aprendiendo y creciendo en el sector.
+Soy desarrollador frontend titulado en el ciclo de Desarrollo de Aplicaciones Multiplataforma (DAM). Tengo experiencia en tecnologías web como HTML, CSS, JavaScript y Angular. Además, cuento con conocimientos básicos de backend, habiendo trabajado con bases de datos MySQL y lenguajes como PHP durante mi formación.
 
-Estoy interesado en participar en proyectos de cualquier tipo, tanto web como móviles, donde pueda aplicar mis conocimientos, desarrollar nuevas habilidades y trabajar en equipo. Me motiva enfrentar nuevos retos y contribuir a soluciones reales que generen impacto.
-
-Mi objetivo es convertirme en un profesional versátil, comprometido y en constante evolución dentro del mundo del desarrollo de software.
+Estoy interesado en participar en proyectos web o móviles donde pueda aplicar mis habilidades en desarrollo de interfaces, seguir aprendiendo y aportar soluciones funcionales y atractivas. Me gusta trabajar en equipo, enfrentar nuevos retos y crecer constantemente en el mundo del desarrollo de software.
 
 ## 🚧 Proyectos en desarrollo
 
-Actualmente me encuentro trabajando en varios proyectos personales para seguir mejorando mis habilidades como desarrollador web y móvil. Pronto los iré publicando en este repositorio.
+Actualmente me encuentro trabajando en varios proyectos personales para seguir mejorando mis habilidades como desarrollador frontend. Pronto los iré publicando en este repositorio.
+
+Uno de estos proyectos es una aplicación web realizada con Angular, desarrollada durante mi último curso de DAM. **Muy pronto estará disponible aquí en GitHub. ¡Estate atento!** 🚀
 
 <br>
 
@@ -42,4 +42,3 @@ Actualmente me encuentro trabajando en varios proyectos personales para seguir m
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlekCaritgDev&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
-
