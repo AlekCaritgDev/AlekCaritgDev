@@ -11,7 +11,7 @@
 
 - 🎓 Buscando empresa para prácticas profesionales.  
 - 💻 Frontend: HTML · CSS · JavaScript · Angular  
-- 🛠️ Backend y bases de datos: conocimientos básicos de PHP, MySQL y gestión de datos  
+- 🛠️ Backend y bases de datos: conocimientos básicos de PHP, Python, Nodejs MySQL y gestión de datos  
 - 🌱 En proceso de aprendizaje y mejora continua.
 
 Durante mi formación en el ciclo de Desarrollo de Aplicaciones Multiplataforma (DAM), he trabajado en proyectos tanto del lado del cliente como del servidor, aprendiendo sobre diseño, lógica de negocio y bases de datos. Mi objetivo es seguir creciendo y aportar valor en proyectos reales.
