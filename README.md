@@ -55,6 +55,18 @@ Durante mi formación en el ciclo de Desarrollo de Aplicaciones Multiplataforma 
 Aplicación web para la gestión personal de finanzas, desarrollada como proyecto final del ciclo DAM.  
 Incluye autenticación con JWT, protección de rutas, dashboard dinámico y conexión a base de datos MySQL.
 
+### 🦖 ARK-Survival-Evolved
+
+<a href="https://github.com/AlekCaritgDev/ARK-Survival-Evolved">
+  <img src="https://github.com/AlekCaritgDev/ARK-Survival-Evolved/blob/main/imagenes/intro.png" alt="ARK Dino Cards" style="height: auto; width:60%; border-radius:8px; box-shadow: 0 0 10px rgba(0,0,0,0.15);"/>
+</a>
+
+[![ARK-Survival-Evolved](https://img.shields.io/github/stars/AlekCaritgDev/ARK-Survival-Evolved?label=ARK-Survival-Evolved&style=social)](https://github.com/AlekCaritgDev/ARK-Survival-Evolved)
+
+**Descripción:**  
+Mini sitio web hecho solo con **HTML y Bootstrap 5** para practicar maquetación y diseño responsive.  
+Contiene un video introductorio de ARK: Survival Evolved, una sección de "Dino-Dossiers" con **cards responsivas** y un formulario de login con diseño moderno.
+
 ---
 
 ## 🌐 Encuéntrame en
