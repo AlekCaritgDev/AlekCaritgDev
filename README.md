@@ -67,6 +67,17 @@ Incluye autenticación con JWT, protección de rutas, dashboard dinámico y cone
 Mini sitio web hecho solo con **HTML y Bootstrap 5** para practicar maquetación y diseño responsive.  
 Contiene un video introductorio de ARK: Survival Evolved, una sección de "Dino-Dossiers" con **cards responsivas** y un formulario de login con diseño moderno.
 
+### Pagina-TailwindCSS
+
+<a href="https://github.com/AlekCaritgDev/Pagina-TailwindCSS">
+  <img src="https://github.com/AlekCaritgDev/Pagina-TailwindCSS/blob/main/images/paginaweb.png" alt="Pagina web" style="height: auto; width:60%; border-radius:8px; box-shadow: 0 0 10px rgba(0,0,0,0.15);"/>
+</a>
+
+[![Pagina-TailwindCSS](https://img.shields.io/github/stars/AlekCaritgDev/Pagina-TailwindCSS?label=Pagina-TailwindCSS&style=social)](https://github.com/AlekCaritgDev/Pagina-TailwindCSS)
+
+**Descripción:**  
+Página Personal - TailwindCSS es un proyecto web sencillo desarrollado con el objetivo de practicar y afianzar conocimientos en Tailwind CSS y estructura básica con HTML.
+
 ---
 
 ## 🌐 Encuéntrame en
